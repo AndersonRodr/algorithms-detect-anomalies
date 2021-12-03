@@ -4,6 +4,6 @@ This project is for study some algorithms that detect anomalies (outliers) and t
 Algorithms for test:
 - DBSCAN;
 - IF (Isolation Forest);
-- Topological Data Analisys.
+- Topological Data Analisys (Bônus).
 
 We will use data by API INMET.
